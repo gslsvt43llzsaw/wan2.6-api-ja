@@ -10,7 +10,7 @@
   <img src="assets/01-product-ad-ceramic-mug-thumb.jpg" width="820" alt="Wan 2.6 (wan-2-6) output preview generated through APIMart">
 </p>
 
-> per generated second — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
+> **from $0.05 per second** at 720P (1080P $0.084) — one OpenAI-compatible endpoint at `https://api.apimart.ai/v1`, no monthly plan required. *(observed 2026-10-12)*
 
 **[Get an API key](https://go.apimart.ai/k-e7790b)** · **[Live pricing](https://go.apimart.ai/k-1be593)** · **[Model page](https://go.apimart.ai/k-8ae48f)** · [⚡ 60-second quickstart](#quickstart)
 
